@@ -1,0 +1,171 @@
+1634077041829	geckodriver	INFO	Listening on 127.0.0.1:14013
+1634077044863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofileRMPc7u"
+1634077095620	geckodriver	INFO	Listening on 127.0.0.1:2697
+1634077098669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofileZDGgoO"
+1634077099294	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofileZDGgoO\\search.json.mozlz4", (void 0)))
+1634077102351	Marionette	INFO	Listening on port 2705
+1634077102382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/c/MjczNzU3Mzg5MTg1/a/MzU2NTExMjYzNDAw/submissions/by-status/and-sort-last-name/all&followup=https://classroom.google.com/c/MjczNzU3Mzg5MTg1/a/MzU2NTExMjYzNDAw/submissions/by-status/and-sort-last-name/all line 1 > eval line 993 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/c/MjczNzU3Mzg5MTg1/a/MzU2NTExMjYzNDAw/submissions/by-status/and-sort-last-name/all&followup=https://classroom.google.com/c/MjczNzU3Mzg5MTg1/a/MzU2NTExMjYzNDAw/submissions/by-status/and-sort-last-name/all line 1 > eval line 4818 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/bg/y_GpSJCDeJUhy2edwqiqULXjheMgRVI09JfpD4O8H0g.js line 1 > eval line 2310 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1634077630177	Marionette	INFO	Stopped listening on port 2705
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634077663099	geckodriver	INFO	Listening on 127.0.0.1:1399
+1634077666191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofile13g44f"
+1634077666831	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofile13g44f\\search.json.mozlz4", (void 0)))
+1634077669611	Marionette	INFO	Listening on port 1409
+1634077669890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/c/MjczNzU3Mzg5MTg1/a/MzU2NTExMjYzNDAw/submissions/by-status/and-sort-last-name/all&followup=https://classroom.google.com/c/MjczNzU3Mzg5MTg1/a/MzU2NTExMjYzNDAw/submissions/by-status/and-sort-last-name/all line 1 > eval line 7378 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/c/MjczNzU3Mzg5MTg1/a/MzU2NTExMjYzNDAw/submissions/by-status/and-sort-last-name/all&followup=https://classroom.google.com/c/MjczNzU3Mzg5MTg1/a/MzU2NTExMjYzNDAw/submissions/by-status/and-sort-last-name/all line 1 > eval line 6497 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/bg/y_GpSJCDeJUhy2edwqiqULXjheMgRVI09JfpD4O8H0g.js line 1 > eval line 6856 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1634078356498	Marionette	INFO	Stopped listening on port 1409
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634078372437	geckodriver	INFO	Listening on 127.0.0.1:5725
+1634078375507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofile7oxZPs"
+1634078376137	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofile7oxZPs\\search.json.mozlz4", (void 0)))
+1634078378659	Marionette	INFO	Listening on port 5734
+1634078378693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzQyMTAzOTc0MDg2/submissions/by-status/and-sort-last-name/all&followup=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzQyMTAzOTc0MDg2/submissions/by-status/and-sort-last-name/all line 1 > eval line 2814 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzQyMTAzOTc0MDg2/submissions/by-status/and-sort-last-name/all&followup=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzQyMTAzOTc0MDg2/submissions/by-status/and-sort-last-name/all line 1 > eval line 5214 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/bg/y_GpSJCDeJUhy2edwqiqULXjheMgRVI09JfpD4O8H0g.js line 1 > eval line 2109 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/bg/y_GpSJCDeJUhy2edwqiqULXjheMgRVI09JfpD4O8H0g.js line 1 > eval line 1610 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634078486917	Marionette	INFO	Stopped listening on port 5734
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634078707468	geckodriver	INFO	Listening on 127.0.0.1:3658
+1634078710548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofile8VP0Fa"
+1634078711114	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofile8VP0Fa\\search.json.mozlz4", (void 0)))
+1634078713616	Marionette	INFO	Listening on port 3666
+1634078713732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all&followup=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all line 1 > eval line 6452 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all&followup=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all line 1 > eval line 6796 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/bg/y_GpSJCDeJUhy2edwqiqULXjheMgRVI09JfpD4O8H0g.js line 1 > eval line 6189 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634078730136	Marionette	INFO	Stopped listening on port 3666
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634078750594	geckodriver	INFO	Listening on 127.0.0.1:10440
+1634078753682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofile89R0jy"
+1634078754292	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofile89R0jy\\search.json.mozlz4", (void 0)))
+1634078757088	Marionette	INFO	Listening on port 10382
+1634078757382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all&followup=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all line 1 > eval line 5872 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all&followup=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all line 1 > eval line 5671 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/bg/y_GpSJCDeJUhy2edwqiqULXjheMgRVI09JfpD4O8H0g.js line 1 > eval line 2519 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634078831615	Marionette	INFO	Stopped listening on port 10382
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634079441632	geckodriver	INFO	Listening on 127.0.0.1:10955
+1634079444715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofileU2aL1G"
+1634079445318	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofileU2aL1G\\search.json.mozlz4", (void 0)))
+1634079448281	Marionette	INFO	Listening on port 10963
+1634079448402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all&followup=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all line 1 > eval line 6341 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all&followup=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all line 1 > eval line 2524 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/bg/y_GpSJCDeJUhy2edwqiqULXjheMgRVI09JfpD4O8H0g.js line 1 > eval line 5587 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634079513504	Marionette	INFO	Stopped listening on port 10963
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634079785833	geckodriver	INFO	Listening on 127.0.0.1:10542
+1634079788892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofileJX7Gck"
+1634079789536	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofileJX7Gck\\search.json.mozlz4", (void 0)))
+1634079792203	Marionette	INFO	Listening on port 10414
+1634079792594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all&followup=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all line 1 > eval line 3688 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all&followup=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all line 1 > eval line 1409 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/bg/y_GpSJCDeJUhy2edwqiqULXjheMgRVI09JfpD4O8H0g.js line 1 > eval line 4602 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634079869193	Marionette	INFO	Stopped listening on port 10414
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634079904306	geckodriver	INFO	Listening on 127.0.0.1:5121
+1634079907363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofilesZZHkZ"
+1634079907951	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofilesZZHkZ\\search.json.mozlz4", (void 0)))
+1634079910819	Marionette	INFO	Listening on port 3533
+1634079911071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all&followup=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all line 1 > eval line 6438 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all&followup=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all line 1 > eval line 1982 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/bg/y_GpSJCDeJUhy2edwqiqULXjheMgRVI09JfpD4O8H0g.js line 1 > eval line 4258 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634079988232	Marionette	INFO	Stopped listening on port 3533
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634080276763	geckodriver	INFO	Listening on 127.0.0.1:9887
+1634080279839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofilescPvpG"
+1634080280432	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofilescPvpG\\search.json.mozlz4", (void 0)))
+1634080283117	Marionette	INFO	Listening on port 14286
+1634080283522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all&followup=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all line 1 > eval line 7067 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all&followup=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all line 1 > eval line 3423 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/bg/y_GpSJCDeJUhy2edwqiqULXjheMgRVI09JfpD4O8H0g.js line 1 > eval line 840 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634080351341	Marionette	INFO	Stopped listening on port 14286
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634080435987	geckodriver	INFO	Listening on 127.0.0.1:5744
+1634080439032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofilejRz6dl"
+1634080439649	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofilejRz6dl\\search.json.mozlz4", (void 0)))
+1634080442478	Marionette	INFO	Listening on port 5752
+1634080442719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all&followup=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all line 1 > eval line 4526 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=classroom&passive=1209600&continue=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all&followup=https://classroom.google.com/c/MjczNzU3ODYwMDQ4/a/MzU5NDE2MzAyODA5/submissions/by-status/and-sort-last-name/all line 1 > eval line 6691 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/bg/y_GpSJCDeJUhy2edwqiqULXjheMgRVI09JfpD4O8H0g.js line 1 > eval line 7086 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1634081348351	Marionette	INFO	Stopped listening on port 5752
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637863427875	geckodriver	INFO	Listening on 127.0.0.1:6225
+1637863430948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\manop\\AppData\\Local\\Temp\\rust_mozprofileFK2EiH"
